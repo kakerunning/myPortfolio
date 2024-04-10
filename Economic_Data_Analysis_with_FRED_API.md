@@ -28,10 +28,4 @@ The S&P 500 has experienced a positive trend over the past 10 years (2015-2024).
 ![image](https://github.com/kakerunning/myPortfolio/assets/117734406/36d280ad-8030-49a7-9b0a-dc06e2d7fb72)
 
 ## Code
-[JupiterNoteBook](https://github.com/kakerunning/myPortfolio/blob/main/economic-analysis-with-FredAPI.ipynb)
-
-## Conclusion
-Wrap up your project description with a conclusion. What did you learn from this project? What would you do differently next time?
-
-## Contact Information
-Provide some contact information so that people can reach out to you if they have questions or are interested in your work.
+[Economic_Analysis_with_FREDAPI](https://github.com/kakerunning/myPortfolio/blob/main/economic-analysis-with-FredAPI.ipynb)
