@@ -6,8 +6,9 @@ In this project, I analyzed COVID-19 data to gain insights into the impact and p
 ## Dataset
 The resauce of the dataset is [here](https://ourworldindata.org/covid-deaths)
 The dataset includes global data on COVID-19 deaths and vaccinations. I created two CSV files from this dataset for my analysis.
-[CovidDeaths](https://github.com/kakerunning/myPortfolio/blob/main/CovidDeaths.zip)
-[COvidVacctinations](https://github.com/kakerunning/myPortfolio/blob/main/CovidVactinations.zip)
+
+- [CovidDeaths](https://github.com/kakerunning/myPortfolio/blob/main/CovidDeaths.zip)
+- [COvidVacctinations](https://github.com/kakerunning/myPortfolio/blob/main/CovidVactinations.zip)
 ## Tools and Technologies
 I used [SQL](https://github.com/kakerunning/myPortfolio/blob/main/covid_portfolio_project.sql) for data exploration and abstraction. The visualizations were created using Tableau.
 
